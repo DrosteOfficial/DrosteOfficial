@@ -10,17 +10,17 @@ Hi, DorsteOfficial there! I'm a passionate developer with keen intrest into tech
 
 
 ## Other...
-html
-css
-javascript
-sql
-Bazy danych Oracle
+html,
+css,
+javascript,
+sql,
+Bazy danych Oracle,
 WebEndpoints
 
 
 
 ## Now learninig
-Typescript React
+Typescript React,
 WebSockets
 
 
