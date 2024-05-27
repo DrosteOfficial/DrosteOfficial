@@ -1,4 +1,20 @@
-## Hi there 👋
+Hi, DorsteOfficial there! I'm a passionate developer with keen intrest into technology 🧑‍💻  espesialy Java (Backend) 🥤 . I like to spend my free time on self improvment 💪  and learning new technologies 🔧 . My journey in programming is driven by curiosity and a desire to improve my systems/designs. 🧠 
+
+## WELLCOME 👋
+
+##Technologies
+☕Java is my main language it enables me to write well optimised software just Love it!!!☕
+🌱Java Spring 🌱
+✨C# WPF✨ 
+
+
+##Other skills 👋
+html
+css
+javascript
+
+
+
 
 <!--
 **DrosteOfficial/DrosteOfficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
