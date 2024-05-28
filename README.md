@@ -14,7 +14,7 @@ html,
 css,
 javascript,
 sql,
-Bazy danych Oracle,
+Oracle DB,
 WebEndpoints
 
 
